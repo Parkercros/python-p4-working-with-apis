@@ -23,5 +23,6 @@ class GetPrograms:
 programs = GetPrograms()
 programs_schools = programs.program_school()
 
-for school in set(programs_schools):
-    print(school)
+# for school in set(programs_schools):
+#     print(school)
+# //?
